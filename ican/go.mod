@@ -1,3 +1,3 @@
-module github.com/ican/v0
+module github.com/holylong/ican
 
 go 1.15
